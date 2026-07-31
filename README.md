@@ -79,8 +79,3 @@ This project is a fully-featured **RAG chatbot** built using **LangChain** and *
 
 4. **Start Chatting**:
    Ask questions related to your uploaded documents, and the AI will analyze the context and deliver accurate answers!
-
-## 📝 Blog Post
-
-I wrote an in-depth blog post explaining the inner workings of this project. You can read it here: 
-👉 [**RAG chatbot powered by Langchain, OpenAI, Google Generative AI and Hugging Face APIs**](https://medium.com/@alaeddine.grine/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db)

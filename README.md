@@ -1,12 +1,5 @@
 # 🤖 Multi-Provider RAG Chatbot
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange)
-![Google](https://img.shields.io/badge/Google-Gemini--Pro-blue)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-
 <div align="center">
   <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" alt="RAG Architecture">
   <figcaption><em>RAG architecture with Langchain components.</em></figcaption>
